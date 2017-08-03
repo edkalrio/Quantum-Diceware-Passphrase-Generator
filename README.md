@@ -5,13 +5,13 @@ DIQ is a quantum random passphrase generator based on the Australian National Un
 The word list in `dicewds8k[]` is based on [dicewds8k.txt](http://world.std.com/~reinhold/diceware8k.txt) by Arnold G. Reinhold.
 
 DIQ is the easiest and safest way to get a strong passphrase, as long as you trust on the TLS 1.0 connection with the server.
-###Installation
+### Installation
 		git clone https://github.com/edkalrio/Quantum-Diceware-Passphrase-Generator.git
 		cp ~/Quantum-Diceware-Passphrase-Generator/diq.sh /usr/bin/diq
 		sudo chmod +x /usr/bin/diq
-###Execution
+### Execution
   		diq
-###UNIX Checklist
+### UNIX Checklist
 - DIQ does one thing and does it well ☑
 - DIQ works among other software ☑
 - DIQ handles text streams ☑
